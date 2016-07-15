@@ -4,7 +4,11 @@
     "repositoryName": "juliosueiras.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "A Terminal Fanatic's Blog",
+    "googleAnalytics": "UA-74068025-2",
+    "disqus": "terminalvim"
+  },
   "socialnetwork": {
     "email": "juliosueiras@gmail.com",
     "twitter": "juliosueiras",
