@@ -4,7 +4,15 @@
     "repositoryName": "juliosueiras.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "juliosueiras@gmail.com",
+    "twitter": "juliosueiras",
+    "linkedin": "juliosueiras",
+    "facebook": "juliosueiras",
+    "github": "juliosueiras"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
